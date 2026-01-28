@@ -31,7 +31,7 @@ The company had 4 years of sales data but no clear picture of what was going wro
 
 The dashboard shows revenue by market, monthly trends, and top customers. Built in Tableau with filters for year and month.
 
-**[View interactive dashboard on Tableau Public](https://public.tableau.com/views/TechSalesAnalysis)** *(link to be added after publishing)*
+**[View interactive dashboard on Tableau Public][(https://public.tableau.com/views/TechSalesAnalysis)](https://public.tableau.com/app/profile/morgan.germinario/viz/Tech_Sales_Analysis/Dashboard1)** 
 
 ## Tools & Architecture
 
