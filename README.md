@@ -73,10 +73,4 @@ Tech Sales Analysis/
 
 3. **Tableau**: Open `Tech_Sales_Analysis.twbx` in Tableau Desktop or Tableau Public.
 
-## What I Learned
 
-This was my first full analysis project. A few things I figured out:
-- Always check for currency issues early (found USD mixed with INR transactions)
-- Concentration metrics matter - one big customer leaving could be a disaster
-- Keep SQL and Python responsibilities separate - SQL for calculations, Python for visualization
-- Simple charts often work better than fancy ones
