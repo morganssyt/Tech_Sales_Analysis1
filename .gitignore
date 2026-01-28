@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Generated CSVs (can be regenerated)
+market_analysis.csv
+customer_analysis.csv
+yearly_analysis.csv
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Database dump (too large for GitHub)
+*.sql.gz
+db_dump*.sql
+
+# IDE/Editor
+.vscode/
+.idea/
+.claude/
+
+# Credentials
+.env
